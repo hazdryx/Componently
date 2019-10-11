@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard1.0</TargetFramework>
     <RootNamespace>Hazdryx.Componently</RootNamespace>
     <AssemblyName>Hazdryx.Componently</AssemblyName>
     <StartupObject />
@@ -9,12 +9,12 @@
     <Win32Resource />
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Authors>Christopher Bishop</Authors>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Company>Hazdryx</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <AssemblyVersion>0.0.1.0</AssemblyVersion>
-    <FileVersion>0.0.1.0</FileVersion>
+    <AssemblyVersion>0.0.1.1</AssemblyVersion>
+    <FileVersion>0.0.1.1</FileVersion>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
